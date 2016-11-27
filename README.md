@@ -1,2 +1,2 @@
 # multigram
-allows user to filter by multiple instagram hashtag
+a web app that allows users to filter by multiple instagram hashtags
